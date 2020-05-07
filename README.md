@@ -29,7 +29,7 @@ This is a python implementation of the MAVLink protocol.
 It includes a source code generator (generator/mavgen.py) to create MAVLink protocol implementations for other programming languages as well.
 Also contains tools for analizing flight logs.
 
-# Documentation
+## Documentation
 
 Please see http://ardupilot.org/dev/docs/mavlink-commands.html for documentation.
 
@@ -37,7 +37,7 @@ For realtime discussion please see the pymavlink gitter channel here
 https://gitter.im/ArduPilot/pymavlink
 
 
-# Installation 
+## Installation 
 
 Pymavlink supports both python2 and python3.
 
